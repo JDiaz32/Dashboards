@@ -9,8 +9,8 @@
 * En la última página se enseñan los puntos conseguidos por cada piloto y equipo a lo largo de cada temporada.
 
 
-<img src="https://github.com/JDiaz32/Formula-1-Dashboard-1950-2022/blob/main/images/Dashboard%20F1_page-0001.jpg?raw=true" width="500"><img src="https://github.com/JDiaz32/Formula-1-Dashboard-1950-2022/blob/main/images/Dashboard%20F1_page-0002.jpg?raw=true" width="500">
+<img src="https://github.com/JDiaz32/Formula-1-Dashboard-1950-2022/blob/main/images/Dashboard%20F1_page-0001.jpg?raw=true" width="400"><img src="https://github.com/JDiaz32/Formula-1-Dashboard-1950-2022/blob/main/images/Dashboard%20F1_page-0002.jpg?raw=true" width="400">
 
-<img src="https://github.com/JDiaz32/Formula-1-Dashboard-1950-2022/blob/main/images/Dashboard%20F1_page-0003.jpg?raw=true" width="500"><img src="https://github.com/JDiaz32/Formula-1-Dashboard-1950-2022/blob/main/images/Dashboard%20F1_page-0004.jpg?raw=true" width="500">
+<img src="https://github.com/JDiaz32/Formula-1-Dashboard-1950-2022/blob/main/images/Dashboard%20F1_page-0003.jpg?raw=true" width="400"><img src="https://github.com/JDiaz32/Formula-1-Dashboard-1950-2022/blob/main/images/Dashboard%20F1_page-0004.jpg?raw=true" width="400">
 
-<img src="https://github.com/JDiaz32/Formula-1-Dashboard-1950-2022/blob/main/images/Dashboard%20F1_page-0005.jpg?raw=true" width="500"><img src="https://github.com/JDiaz32/Formula-1-Dashboard-1950-2022/blob/main/images/Dashboard%20F1_page-0006.jpg?raw=true" width="500">
+<img src="https://github.com/JDiaz32/Formula-1-Dashboard-1950-2022/blob/main/images/Dashboard%20F1_page-0005.jpg?raw=true" width="400"><img src="https://github.com/JDiaz32/Formula-1-Dashboard-1950-2022/blob/main/images/Dashboard%20F1_page-0006.jpg?raw=true" width="400">
